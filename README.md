@@ -40,6 +40,7 @@ Clean and intuitive UI using Streamlit widgets
 
 #### -> Output: Predicted Property Price (₹)
 
+#### -> Video Demo  https://youtu.be/sKq1i68I7CI
 
 
 ## 💻 How to Run the App
