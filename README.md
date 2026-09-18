@@ -47,8 +47,8 @@ Clean and intuitive UI using Streamlit widgets
 Clone the Repository
 
 ```bash
-git clone https://github.com/ManishSharma2002/Real-Estate-Price-Prediction-Web-App-Gurgaon-.git
-cd Real-Estate-Price-Prediction-Web-App-Gurgaon-
+git clone https://github.com/Globbleofficial/Real-Estate-Price-Prediction-Web-App-Gurgaon.git
+cd Real-Estate-Price-Prediction-Web-App-Gurgaon
 
 ```
 Launch the App
